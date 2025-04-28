@@ -1,2 +1,18 @@
-#excluir entorno virtual
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env
+*.env
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Virtual Environments
 venv/
+env/
+solana-bot-env/
+*env/
