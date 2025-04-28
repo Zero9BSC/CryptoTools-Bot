@@ -8,7 +8,7 @@ import time
 from solders.pubkey import Pubkey
 
 # Bot Configuration
-TOKEN = '7009028228:AAH1EgXFB1V1JqzKUXoDvzydB8lYdcEV8bI' #'YOUR_TELEGRAM_BOT_TOKEN'
+TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 # Solana RPC URL
